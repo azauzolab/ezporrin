@@ -1,0 +1,9 @@
+module.exports = {
+  database:{
+    dialect:"mariadb",
+    host:"localhost",
+    username:"",
+    password:"",
+    database:""
+  }
+}
